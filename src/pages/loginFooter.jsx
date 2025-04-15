@@ -2,7 +2,10 @@ import React from 'react'
 
 const loginFooter = () => {
   return (
-    <div>loginFooter</div>
+    <div>
+      <p>footer</p>
+    </div>
+    
   )
 }
 
